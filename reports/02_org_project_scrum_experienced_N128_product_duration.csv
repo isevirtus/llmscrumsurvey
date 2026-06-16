@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+scrum_experienced_N128,product_duration,Less than 1 year,37,28.9,128
+scrum_experienced_N128,product_duration,Between 1 and less than 3 years,35,27.3,128
+scrum_experienced_N128,product_duration,More than 10 years,16,12.5,128
+scrum_experienced_N128,product_duration,Between 3 and less than 5 years,14,10.9,128
+scrum_experienced_N128,product_duration,Between 5 and less than 10 years,9,7.0,128

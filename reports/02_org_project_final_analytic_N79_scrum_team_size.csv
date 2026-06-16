@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+final_analytic_N79,scrum_team_size,Between 6 and 10 members,34,43.0,79
+final_analytic_N79,scrum_team_size,Between 1 and 5 members,23,29.1,79
+final_analytic_N79,scrum_team_size,Between 11 and 20 members,16,20.3,79
+final_analytic_N79,scrum_team_size,Between 21 and 40 members,4,5.1,79
+final_analytic_N79,scrum_team_size,More than 40 members,2,2.5,79

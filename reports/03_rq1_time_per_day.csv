@@ -1,0 +1,4 @@
+scope,variable,response,count,percent,denominator
+final_analytic_N79,time_per_day,1–2 hours,40,50.6,79
+final_analytic_N79,time_per_day,< 1 hour,34,43.0,79
+final_analytic_N79,time_per_day,3–4 hours,5,6.3,79

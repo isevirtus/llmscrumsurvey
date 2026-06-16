@@ -1,0 +1,7 @@
+step,n_remaining,n_removed_at_step,basis
+Survey submissions,159,,All rows in spreadsheet
+Consenting responses,158,1,Agreed to participate
+Responses with Scrum experience,128,30,Scrum experience answer is not 'No experience'
+Reported having worked in a Scrum initiative/project,111,17,Answered yes to having worked in a Scrum initiative/project
+Reported LLM use for Scrum in last 6 months,81,47,Answered yes to LLM use for Scrum management work
+Final analytic sample,79,2,Excluded contradictory formality answers: 'I don't use LLM in Scrum-based activities'

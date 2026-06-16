@@ -1,0 +1,85 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+title: "Supplementary Material: Large Language Models in Scrum Management: Findings from an International Survey of Practitioners"
+abstract: "This repository contains the analysis scripts, survey dataset, codebooks, and pre-generated reports for the research paper investigating how Agile practitioners use LLMs (AI chat assistants such as ChatGPT, Claude, Gemini) to support Scrum management activities. The study is based on an international survey of 159 practitioners from 37 countries, including 81 active LLM users, providing insights into usage patterns, perceived benefits, challenges, and future perspectives."
+authors:
+  - family-names: "Albuquerque"
+    given-names: "Danyllo"
+    orcid: "https://orcid.org/0000-0001-5515-7812"
+    affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+  - family-names: "Perkusich"
+    given-names: "Mirko"
+    orcid: "https://orcid.org/0000-0002-9433-4962"
+    affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+  - family-names: "Paixão"
+    given-names: "Matheus"
+    affiliation: "Computer Science Postgraduate Program, State University of Ceará (UECE), Brazil"
+  - family-names: "Araújo"
+    given-names: "Allysson Allex"
+    affiliation: "Graduate Program in Business Administration, Federal University of Cariri (UFCA), Brazil"
+  - family-names: "Kalinowski"
+    given-names: "Marcos"
+    affiliation: "Informatics Department, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Brazil"
+  - family-names: "Gheyi"
+    given-names: "Rohit"
+    affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+  - family-names: "Santos"
+    given-names: "Danilo"
+    affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+  - family-names: "Perkusich"
+    given-names: "Angelo"
+    orcid: "https://orcid.org/0000-0002-7377-1258"
+    affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+keywords:
+  - Large Language Models
+  - Scrum
+  - Agile Management
+  - Agile Software Development
+  - Survey Research
+  - Empirical Study
+  - Software Engineering
+  - AI Chat Assistants
+  - ChatGPT
+  - Project Management
+license: MIT
+repository-code: "https://github.com/isevirtus/llmscrumsurvey"
+url: "https://github.com/isevirtus/llmscrumsurvey"
+date-released: "2026-06-16"
+version: "1.0.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Albuquerque"
+      given-names: "Danyllo"
+      orcid: "https://orcid.org/0000-0001-5515-7812"
+      affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+    - family-names: "Perkusich"
+      given-names: "Mirko"
+      orcid: "https://orcid.org/0000-0002-9433-4962"
+      affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+    - family-names: "Paixão"
+      given-names: "Matheus"
+      affiliation: "Computer Science Postgraduate Program, State University of Ceará (UECE), Brazil"
+    - family-names: "Araújo"
+      given-names: "Allysson Allex"
+      affiliation: "Graduate Program in Business Administration, Federal University of Cariri (UFCA), Brazil"
+    - family-names: "Kalinowski"
+      given-names: "Marcos"
+      affiliation: "Informatics Department, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Brazil"
+    - family-names: "Gheyi"
+      given-names: "Rohit"
+      affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+    - family-names: "Santos"
+      given-names: "Danilo"
+      affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+    - family-names: "Perkusich"
+      given-names: "Angelo"
+      orcid: "https://orcid.org/0000-0002-7377-1258"
+      affiliation: "Research, Development and Innovation Center VIRTUS, Federal University of Campina Grande (UFCG), Brazil"
+  title: "Large Language Models in Scrum Management: Findings from an International Survey of Practitioners"
+  journal: "Journal of Systems and Software"
+  year: 2026
+  doi: "PLACEHOLDER_DOI"
+  url: "https://github.com/isevirtus/llmscrumsurvey"
+  status: "submitted"

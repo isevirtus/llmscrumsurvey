@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+scrum_experienced_N128,scrum_team_size,Between 6 and 10 members,48,37.5,128
+scrum_experienced_N128,scrum_team_size,Between 1 and 5 members,33,25.8,128
+scrum_experienced_N128,scrum_team_size,Between 11 and 20 members,21,16.4,128
+scrum_experienced_N128,scrum_team_size,Between 21 and 40 members,6,4.7,128
+scrum_experienced_N128,scrum_team_size,More than 40 members,3,2.3,128

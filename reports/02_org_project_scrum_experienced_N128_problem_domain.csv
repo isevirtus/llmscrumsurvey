@@ -1,0 +1,29 @@
+scope,variable,response,count,percent,denominator
+scrum_experienced_N128,problem_domain,Finance,21,16.4,128
+scrum_experienced_N128,problem_domain,Education,19,14.8,128
+scrum_experienced_N128,problem_domain,Transport and Distribution,13,10.2,128
+scrum_experienced_N128,problem_domain,Enterprise Resource Planning,12,9.4,128
+scrum_experienced_N128,problem_domain,Telecommunication,9,7.0,128
+scrum_experienced_N128,problem_domain,Security and Defense,7,5.5,128
+scrum_experienced_N128,problem_domain,Healthcare,5,3.9,128
+scrum_experienced_N128,problem_domain,Retail,3,2.3,128
+scrum_experienced_N128,problem_domain,Pharmaceutics,3,2.3,128
+scrum_experienced_N128,problem_domain,Accessibility,1,0.8,128
+scrum_experienced_N128,problem_domain,Web development,1,0.8,128
+scrum_experienced_N128,problem_domain,Energy,1,0.8,128
+scrum_experienced_N128,problem_domain,Green Energy,1,0.8,128
+scrum_experienced_N128,problem_domain,Project Management tools,1,0.8,128
+scrum_experienced_N128,problem_domain,Public Administration,1,0.8,128
+scrum_experienced_N128,problem_domain,"Emergency Response, Logistics, and Operations — Mainly in Ocean and Offshore Environments",1,0.8,128
+scrum_experienced_N128,problem_domain,Sports,1,0.8,128
+scrum_experienced_N128,problem_domain,Government Technologies,1,0.8,128
+scrum_experienced_N128,problem_domain,Research and Development (R&D),1,0.8,128
+scrum_experienced_N128,problem_domain,serviço publico,1,0.8,128
+scrum_experienced_N128,problem_domain,Utilities,1,0.8,128
+scrum_experienced_N128,problem_domain,NOTHING,1,0.8,128
+scrum_experienced_N128,problem_domain,retail and distribution,1,0.8,128
+scrum_experienced_N128,problem_domain,Trade,1,0.8,128
+scrum_experienced_N128,problem_domain,Public Administration (government and laws),1,0.8,128
+scrum_experienced_N128,problem_domain,Connect platform for data and cross accounts collaboration,1,0.8,128
+scrum_experienced_N128,problem_domain,Clubs and Recreations,1,0.8,128
+scrum_experienced_N128,problem_domain,silicon test engineering,1,0.8,128

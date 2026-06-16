@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+scrum_experienced_N128,scrum_knowledge,Qualified - Good conceptual knowledge and practical experience.,67,52.3,128
+scrum_experienced_N128,scrum_knowledge,Proficient - In-depth advanced conceptual understanding and high practical knowledge.,28,21.9,128
+scrum_experienced_N128,scrum_knowledge,Beginner - Knowledge of the main practical aspects.,23,18.0,128
+scrum_experienced_N128,scrum_knowledge,Specialist - In-depth conceptual knowledge and deep practical understanding.,9,7.0,128
+scrum_experienced_N128,scrum_knowledge,"Novice - Minimum or ""conceptual"" knowledge without relevant practical experience.",1,0.8,128

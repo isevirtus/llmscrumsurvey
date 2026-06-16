@@ -1,0 +1,12 @@
+label,original_label,count,percent,denominator
+"Solutions almost right, but not quite","Solutions that are almost right, but not quite",52,65.8,79
+Hallucinations,"Hallucinations (confident, but fabricated or incorrect answers)",43,54.4,79
+Privacy/confidentiality concerns,Privacy/confidentiality concerns,40,50.6,79
+Difficulty validating AI-generated content,Difficulty in validating AI Chat Assistant-generated content,37,46.8,79
+High variability in output quality,High variability in output quality,33,41.8,79
+Legal/ethical uncertainties,Legal/ethical uncertainties about AI use,27,34.2,79
+Difficulty adapting to project/team context,Difficulty adapting to project/team context,26,32.9,79
+Lack of integration with existing tools,Lack of integration with existing tools,26,32.9,79
+Less confidence in own problem-solving,I've become less confident in my own problem-solving,22,27.8,79
+Over-dependence of the team on AI,Over-dependence of the team on AI Chat Assistants,20,25.3,79
+Resistance from team members,Resistance from team members to adopt AI Chat Assistants,18,22.8,79

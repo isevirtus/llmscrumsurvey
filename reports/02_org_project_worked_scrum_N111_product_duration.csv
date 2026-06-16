@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+worked_scrum_N111,product_duration,Less than 1 year,37,33.3,111
+worked_scrum_N111,product_duration,Between 1 and less than 3 years,35,31.5,111
+worked_scrum_N111,product_duration,More than 10 years,16,14.4,111
+worked_scrum_N111,product_duration,Between 3 and less than 5 years,14,12.6,111
+worked_scrum_N111,product_duration,Between 5 and less than 10 years,9,8.1,111

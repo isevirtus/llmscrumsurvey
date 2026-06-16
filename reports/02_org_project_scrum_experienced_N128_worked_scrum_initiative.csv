@@ -1,0 +1,3 @@
+scope,variable,response,count,percent,denominator
+scrum_experienced_N128,worked_scrum_initiative,"Yes, I have worked in one in the past",111,86.7,128
+scrum_experienced_N128,worked_scrum_initiative,"No, I have never worked in one",17,13.3,128

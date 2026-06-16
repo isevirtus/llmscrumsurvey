@@ -1,0 +1,19 @@
+role,response,count,percent,denominator
+Product Owner,Not Helpful,0,0.0,79
+Product Owner,Slightly Helpful,4,5.1,79
+Product Owner,Neutral,8,10.1,79
+Product Owner,Helpful,31,39.2,79
+Product Owner,Very Helpful,22,27.8,79
+Product Owner,Not applicable,14,17.7,79
+Scrum Master,Not Helpful,0,0.0,79
+Scrum Master,Slightly Helpful,0,0.0,79
+Scrum Master,Neutral,9,11.4,79
+Scrum Master,Helpful,30,38.0,79
+Scrum Master,Very Helpful,29,36.7,79
+Scrum Master,Not applicable,11,13.9,79
+Developer,Not Helpful,0,0.0,79
+Developer,Slightly Helpful,1,1.3,79
+Developer,Neutral,6,7.6,79
+Developer,Helpful,26,32.9,79
+Developer,Very Helpful,37,46.8,79
+Developer,Not applicable,9,11.4,79

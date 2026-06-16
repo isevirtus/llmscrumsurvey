@@ -1,0 +1,16 @@
+scope,variable,response,count,percent,denominator
+worked_scrum_N111,primary_role,Developer,29,26.1,111
+worked_scrum_N111,primary_role,Scrum Master,26,23.4,111
+worked_scrum_N111,primary_role,Product Owner,14,12.6,111
+worked_scrum_N111,primary_role,Project Manager,13,11.7,111
+worked_scrum_N111,primary_role,QA / Tester,9,8.1,111
+worked_scrum_N111,primary_role,Program Manager,5,4.5,111
+worked_scrum_N111,primary_role,Architect,3,2.7,111
+worked_scrum_N111,primary_role,Development Manager,2,1.8,111
+worked_scrum_N111,primary_role,Agile Coach,2,1.8,111
+worked_scrum_N111,primary_role,Consultant/Trainer,2,1.8,111
+worked_scrum_N111,primary_role,Product Manager,2,1.8,111
+worked_scrum_N111,primary_role,Tech Lead,1,0.9,111
+worked_scrum_N111,primary_role,Instrutor,1,0.9,111
+worked_scrum_N111,primary_role,Release Train Engineer,1,0.9,111
+worked_scrum_N111,primary_role,President/CEO/COO,1,0.9,111

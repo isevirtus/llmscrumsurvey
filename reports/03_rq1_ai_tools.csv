@@ -1,0 +1,9 @@
+label,original_label,count,percent,denominator
+ChatGPT (OpenAI),ChatGPT (OpenAI),68,86.1,79
+Gemini (Google),Gemini (Google),48,60.8,79
+Copilot Chat (Microsoft),Copilot Chat (Microsoft),47,59.5,79
+Claude (Anthropic),Claude (Anthropic),20,25.3,79
+DeepSeek Chat,DeepSeek Chat,16,20.3,79
+A proprietary or internal AI Chat Assistant developed or customized by your organization,A proprietary or internal AI Chat Assistant developed or customized by your organization,11,13.9,79
+Perplexity AI,Perplexity AI,8,10.1,79
+Mistral Le Chat,Mistral Le Chat,3,3.8,79

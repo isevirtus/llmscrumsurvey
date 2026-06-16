@@ -1,0 +1,5 @@
+scope,variable,response,count,percent,denominator
+scrum_experienced_N128,age_group,Between 30 and 39 years old,45,35.2,128
+scrum_experienced_N128,age_group,Between 20 and 29 years old,44,34.4,128
+scrum_experienced_N128,age_group,Between 40 and 50 years old,34,26.6,128
+scrum_experienced_N128,age_group,More than 50 years old,5,3.9,128

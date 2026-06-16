@@ -1,0 +1,5 @@
+scope,variable,response,count,percent,denominator
+final_analytic_N79,age_group,Between 30 and 39 years old,28,35.4,79
+final_analytic_N79,age_group,Between 20 and 29 years old,24,30.4,79
+final_analytic_N79,age_group,Between 40 and 50 years old,24,30.4,79
+final_analytic_N79,age_group,More than 50 years old,3,3.8,79

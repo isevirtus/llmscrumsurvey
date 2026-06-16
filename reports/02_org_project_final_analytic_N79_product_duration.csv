@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+final_analytic_N79,product_duration,Less than 1 year,28,35.4,79
+final_analytic_N79,product_duration,Between 1 and less than 3 years,21,26.6,79
+final_analytic_N79,product_duration,More than 10 years,13,16.5,79
+final_analytic_N79,product_duration,Between 3 and less than 5 years,11,13.9,79
+final_analytic_N79,product_duration,Between 5 and less than 10 years,6,7.6,79

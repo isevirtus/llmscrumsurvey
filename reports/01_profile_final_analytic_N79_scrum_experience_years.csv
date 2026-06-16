@@ -1,0 +1,5 @@
+scope,variable,response,count,percent,denominator
+final_analytic_N79,scrum_experience_years,Between 3 and 5 years,28,35.4,79
+final_analytic_N79,scrum_experience_years,Less than 3 years,23,29.1,79
+final_analytic_N79,scrum_experience_years,Between 6 and 10 years,18,22.8,79
+final_analytic_N79,scrum_experience_years,Between 11 and 15 years,10,12.7,79

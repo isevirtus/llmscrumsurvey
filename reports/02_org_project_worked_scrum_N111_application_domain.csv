@@ -1,0 +1,15 @@
+scope,variable,response,count,percent,denominator
+worked_scrum_N111,application_domain,Web Application,52,46.8,111
+worked_scrum_N111,application_domain,Cross-platform application,22,19.8,111
+worked_scrum_N111,application_domain,Stand-alone/Desktop Systems,9,8.1,111
+worked_scrum_N111,application_domain,Server-side technologies,9,8.1,111
+worked_scrum_N111,application_domain,Mobile applications,7,6.3,111
+worked_scrum_N111,application_domain,Embedded or automation systems,4,3.6,111
+worked_scrum_N111,application_domain,Data analysis,1,0.9,111
+worked_scrum_N111,application_domain,Healthcare Systems,1,0.9,111
+worked_scrum_N111,application_domain,ServicNow related projects,1,0.9,111
+worked_scrum_N111,application_domain,Internal Application development,1,0.9,111
+worked_scrum_N111,application_domain,"Low Code No Code, Pega, OutSystem, Appian",1,0.9,111
+worked_scrum_N111,application_domain,PROTHEUS - ADVPL,1,0.9,111
+worked_scrum_N111,application_domain,Data,1,0.9,111
+worked_scrum_N111,application_domain,Data integration,1,0.9,111

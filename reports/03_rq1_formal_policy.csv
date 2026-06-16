@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+final_analytic_N79,formal_policy,"YES, there is a formal and documented policy.",34,43.0,79
+final_analytic_N79,formal_policy,"NO, there is no policy or guideline.",19,24.1,79
+final_analytic_N79,formal_policy,"YES, but the policy is informal or not widely documented.",11,13.9,79
+final_analytic_N79,formal_policy,"NO, but discussions about creating one are in progress.",11,13.9,79
+final_analytic_N79,formal_policy,I don’t know / Not sure.,4,5.1,79

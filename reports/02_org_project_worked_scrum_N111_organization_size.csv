@@ -1,0 +1,10 @@
+scope,variable,response,count,percent,denominator
+worked_scrum_N111,organization_size,Over 20000 employees,18,16.2,111
+worked_scrum_N111,organization_size,2001-5000 employees,15,13.5,111
+worked_scrum_N111,organization_size,1-10 employees,15,13.5,111
+worked_scrum_N111,organization_size,51-250 employees,13,11.7,111
+worked_scrum_N111,organization_size,501-1000 employees,12,10.8,111
+worked_scrum_N111,organization_size,11-50 employees,11,9.9,111
+worked_scrum_N111,organization_size,251-500 employees,9,8.1,111
+worked_scrum_N111,organization_size,5001-20000 employees,9,8.1,111
+worked_scrum_N111,organization_size,1001-2000 employees,9,8.1,111

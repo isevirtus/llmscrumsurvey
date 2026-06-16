@@ -1,0 +1,5 @@
+scope,variable,response,count,percent,denominator
+worked_scrum_N111,age_group,Between 20 and 29 years old,39,35.1,111
+worked_scrum_N111,age_group,Between 30 and 39 years old,37,33.3,111
+worked_scrum_N111,age_group,Between 40 and 50 years old,30,27.0,111
+worked_scrum_N111,age_group,More than 50 years old,5,4.5,111

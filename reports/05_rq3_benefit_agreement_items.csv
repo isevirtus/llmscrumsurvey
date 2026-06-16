@@ -1,0 +1,26 @@
+statement,response,count,percent,denominator
+LLMs help reduce cognitive load in repetitive management tasks.,Strongly disagree,0,0.0,79
+LLMs help reduce cognitive load in repetitive management tasks.,Disagree,0,0.0,79
+LLMs help reduce cognitive load in repetitive management tasks.,Neutral,6,7.6,79
+LLMs help reduce cognitive load in repetitive management tasks.,Agree,38,48.1,79
+LLMs help reduce cognitive load in repetitive management tasks.,Strongly agree,35,44.3,79
+"LLMs improve collaboration between Agile roles (PO, SM, Dev, QA).",Strongly disagree,0,0.0,79
+"LLMs improve collaboration between Agile roles (PO, SM, Dev, QA).",Disagree,2,2.5,79
+"LLMs improve collaboration between Agile roles (PO, SM, Dev, QA).",Neutral,29,36.7,79
+"LLMs improve collaboration between Agile roles (PO, SM, Dev, QA).",Agree,28,35.4,79
+"LLMs improve collaboration between Agile roles (PO, SM, Dev, QA).",Strongly agree,20,25.3,79
+"LLMs accelerate the preparation of Scrum events (planning, review, retrospective).",Strongly disagree,0,0.0,79
+"LLMs accelerate the preparation of Scrum events (planning, review, retrospective).",Disagree,1,1.3,79
+"LLMs accelerate the preparation of Scrum events (planning, review, retrospective).",Neutral,12,15.2,79
+"LLMs accelerate the preparation of Scrum events (planning, review, retrospective).",Agree,40,50.6,79
+"LLMs accelerate the preparation of Scrum events (planning, review, retrospective).",Strongly agree,26,32.9,79
+LLMs improve the quality of decision-making in my projects.,Strongly disagree,0,0.0,79
+LLMs improve the quality of decision-making in my projects.,Disagree,2,2.5,79
+LLMs improve the quality of decision-making in my projects.,Neutral,19,24.1,79
+LLMs improve the quality of decision-making in my projects.,Agree,40,50.6,79
+LLMs improve the quality of decision-making in my projects.,Strongly agree,18,22.8,79
+LLMs increase transparency and traceability in Agile processes.,Strongly disagree,0,0.0,79
+LLMs increase transparency and traceability in Agile processes.,Disagree,4,5.1,79
+LLMs increase transparency and traceability in Agile processes.,Neutral,27,34.2,79
+LLMs increase transparency and traceability in Agile processes.,Agree,29,36.7,79
+LLMs increase transparency and traceability in Agile processes.,Strongly agree,19,24.1,79

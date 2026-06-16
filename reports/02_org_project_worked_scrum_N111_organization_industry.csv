@@ -1,0 +1,25 @@
+scope,variable,response,count,percent,denominator
+worked_scrum_N111,organization_industry,Technology,44,39.6,111
+worked_scrum_N111,organization_industry,Education,11,9.9,111
+worked_scrum_N111,organization_industry,"Research, Development, and Innovation",8,7.2,111
+worked_scrum_N111,organization_industry,Financial services,7,6.3,111
+worked_scrum_N111,organization_industry,Professional services,5,4.5,111
+worked_scrum_N111,organization_industry,Energy,4,3.6,111
+worked_scrum_N111,organization_industry,Healthcare and pharma,4,3.6,111
+worked_scrum_N111,organization_industry,Government,4,3.6,111
+worked_scrum_N111,organization_industry,Public services,3,2.7,111
+worked_scrum_N111,organization_industry,Transportation,3,2.7,111
+worked_scrum_N111,organization_industry,Telecommunications,3,2.7,111
+worked_scrum_N111,organization_industry,Utilities,2,1.8,111
+worked_scrum_N111,organization_industry,Consumer products,2,1.8,111
+worked_scrum_N111,organization_industry,Business Consulting and Services,1,0.9,111
+worked_scrum_N111,organization_industry,Outsourcing,1,0.9,111
+worked_scrum_N111,organization_industry,Media and entertainement,1,0.9,111
+worked_scrum_N111,organization_industry,Manufacturing,1,0.9,111
+worked_scrum_N111,organization_industry,shipping and services,1,0.9,111
+worked_scrum_N111,organization_industry,"Emergency Response, Logistics, and Operations — Mainly in Ocean and Offshore Environments",1,0.9,111
+worked_scrum_N111,organization_industry,OTT,1,0.9,111
+worked_scrum_N111,organization_industry,Industrial Food,1,0.9,111
+worked_scrum_N111,organization_industry,Indústria Alimentícia,1,0.9,111
+worked_scrum_N111,organization_industry,Non-profit,1,0.9,111
+worked_scrum_N111,organization_industry,Club Management Software,1,0.9,111

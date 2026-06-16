@@ -1,0 +1,26 @@
+category,activity,currently_mostly_count,currently_partially_count,current_total_count,current_total_percent,plan_mostly_count,plan_partially_count,plan_total_count,plan_total_percent,dont_plan_count,dont_plan_percent,denominator
+Other agile management tasks,Define the team working agreement,11,17,28,35.4,5,20,25,31.6,26,32.9,79
+Scrum artifacts,Define the Sprint Goal of a target Sprint,13,16,29,36.7,12,15,27,34.2,23,29.1,79
+Scrum artifacts,Evaluate the quality of a Product Goal (according to the team’s criteria or commonly accepted best practices),12,15,27,34.2,15,15,30,38.0,22,27.8,79
+Other agile management tasks,"Interpret burndown, burnup, or CFD charts",11,19,30,38.0,6,21,27,34.2,22,27.8,79
+Scrum artifacts,Define the next Product Goal,11,15,26,32.9,10,23,33,41.8,20,25.3,79
+Other agile management tasks,Describe the product vision,13,18,31,39.2,6,22,28,35.4,20,25.3,79
+Scrum artifacts,Estimate technical task effort/size,12,18,30,38.0,13,16,29,36.7,20,25.3,79
+Scrum artifacts,Evaluate the quality of a Sprint Goal (according to the team’s criteria or commonly accepted best practices),15,14,29,36.7,11,19,30,38.0,20,25.3,79
+Other agile management tasks,"Define corrective actions (e.g., limit WIP, improve QA, breakdown items, start a spike) given metrics analysis (e.g., velocity, burndown)",12,17,29,36.7,10,21,31,39.2,19,24.1,79
+Other agile management tasks,Define possible impediment mitigation options,11,22,33,41.8,4,24,28,35.4,18,22.8,79
+Scrum artifacts,"Estimate effort/size (e.g., story point, ideal hours, t-shirt sizing) of a Product Backlog item",9,22,31,39.2,13,17,30,38.0,18,22.8,79
+Scrum artifacts,Improve the Sprint Goal (according to the team’s criteria or commonly accepted best practices),16,16,32,40.5,14,15,29,36.7,18,22.8,79
+Scrum artifacts,Define the Definition of Done criteria,13,16,29,36.7,12,21,33,41.8,17,21.5,79
+Scrum artifacts,"Estimate the value (e.g., ROI, desirability, cost of delay) of a Product Backlog item",12,18,30,38.0,11,21,32,40.5,17,21.5,79
+Other agile management tasks,Evaluate the quality of a product roadmap,10,15,25,31.6,10,27,37,46.8,17,21.5,79
+Scrum events,Identify recurring themes or impediments from event notes,13,14,27,34.2,7,28,35,44.3,17,21.5,79
+Other agile management tasks,Improve the team working agreements,11,27,38,48.1,7,17,24,30.4,17,21.5,79
+Other agile management tasks,"Summarize impediment data (e.g., count, status, owner, resolution progress) into a concise report.",9,21,30,38.0,9,23,32,40.5,17,21.5,79
+Scrum artifacts,Define how to split Product Backlog items to fit a Sprint,12,18,30,38.0,13,20,33,41.8,16,20.3,79
+Scrum artifacts,Improve the Product Goal (according to the team’s criteria or commonly accepted best practices),14,16,30,38.0,15,18,33,41.8,16,20.3,79
+Other agile management tasks,Improve the product vision,14,25,39,49.4,8,16,24,30.4,16,20.3,79
+Exploring and learning Scrum practices,"Simulate conversations to coach or mentor team members – e.g., helping a developer or Product Owner adopt Scrum values, improve backlog management, or grow in their role.",8,22,30,38.0,11,22,33,41.8,16,20.3,79
+Exploring and learning Scrum practices,"Simulate conversations to create learning or practice scenarios for others – e.g., generating realistic role-play cases or Q&A dialogues to use in training sessions or workshops you lead.",11,25,36,45.6,3,24,27,34.2,16,20.3,79
+Other agile management tasks,Summarize Sprint or release progress,12,24,36,45.6,8,19,27,34.2,16,20.3,79
+Other agile management tasks,Identify possible mitigation strategies for risk items,12,27,39,49.4,7,18,25,31.6,15,19.0,79

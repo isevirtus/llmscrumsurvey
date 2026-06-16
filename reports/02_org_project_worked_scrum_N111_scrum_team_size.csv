@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+worked_scrum_N111,scrum_team_size,Between 6 and 10 members,48,43.2,111
+worked_scrum_N111,scrum_team_size,Between 1 and 5 members,33,29.7,111
+worked_scrum_N111,scrum_team_size,Between 11 and 20 members,21,18.9,111
+worked_scrum_N111,scrum_team_size,Between 21 and 40 members,6,5.4,111
+worked_scrum_N111,scrum_team_size,More than 40 members,3,2.7,111

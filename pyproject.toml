@@ -1,0 +1,12 @@
+[project]
+name = "llmscrumsurvey"
+version = "1.0.0"
+description = "Supplementary material: LLMs in Scrum Management — International Survey of Practitioners"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.13.0",
+]

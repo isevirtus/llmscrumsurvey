@@ -1,0 +1,6 @@
+label,original_label,count,percent,denominator
+Text (typing or copy-pasting prompts),Text (typing or copy-pasting prompts),79,100.0,79
+"Files or documents (e.g., uploading PDFs, code files)","Files or documents (e.g., uploading PDFs, code files)",59,74.7,79
+"Images or screenshots (e.g., sharing a burndown chart)","Images or screenshots (e.g., sharing a burndown chart)",46,58.2,79
+"Technical implementation tasks (e.g., writing/explaining/debugging code; generating tests, scripts, and config files; CI/CD & Infrastructure-as-Code; crafting queries/API calls; refactoring/performance/security hardening) (excludes inline autocomplete tools)","Technical implementation tasks (e.g., writing/explaining/debugging code; generating tests, scripts, and config files; CI/CD & Infrastructure-as-Code; crafting queries/API calls; refactoring/performance/security hardening) (excludes inline autocomplete tools)",40,50.6,79
+Voice (speaking or dictation),Voice (speaking or dictation),16,20.3,79

@@ -1,0 +1,26 @@
+category,activity,currently_mostly_count,currently_partially_count,current_total_count,current_total_percent,plan_mostly_count,plan_partially_count,plan_total_count,plan_total_percent,dont_plan_count,dont_plan_percent,denominator
+Scrum artifacts,Improve the description of a Product Backlog item,22,27,49,62.0,12,15,27,34.2,3,3.8,79
+Scrum events,"Summarize what happened during an Event (e.g., Sprint Review, Sprint Planning, Sprint Retrospective) given notes, audio recordings, or video recordings",21,26,47,59.5,12,12,24,30.4,8,10.1,79
+Exploring and learning Scrum practices,"Explore practices and techniques (e.g., estimation methods, refinement approaches, facilitation patterns.)",13,33,46,58.2,8,17,25,31.6,8,10.1,79
+Exploring and learning Scrum practices,"Get practical resources and examples (e.g., recommended tools, sample templates, or checklists to implement practices.)",18,27,45,57.0,10,18,28,35.4,6,7.6,79
+Exploring and learning Scrum practices,"Clarify Scrum concepts and roles (e.g., understanding Sprint events, accountabilities, or artifacts.)",21,23,44,55.7,6,16,22,27.8,13,16.5,79
+Scrum artifacts,Define candidate non-functional requirements,16,28,44,55.7,8,15,23,29.1,12,15.2,79
+Scrum events,Summarize Sprint Review stakeholder feedback and follow-up actions,18,26,44,55.7,11,14,25,31.6,10,12.7,79
+Scrum artifacts,Improve the acceptance criteria of a Product Backlog item,22,21,43,54.4,12,18,30,38.0,6,7.6,79
+Scrum events,"Design the event agenda (i.e., the sequence of activities and minutes per activity) and timeboxes for Sprint events (e.g., Sprint Review, Sprint Planning, Sprint Retrospective)",15,26,41,51.9,6,18,24,30.4,14,17.7,79
+Scrum artifacts,Define the acceptance criteria for a Product Backlog item,22,18,40,50.6,13,16,29,36.7,10,12.7,79
+Scrum artifacts,Evaluate the quality of a Product Backlog item description,14,26,40,50.6,17,14,31,39.2,8,10.1,79
+Other agile management tasks,Summarize key risks for stakeholders,15,25,40,50.6,8,18,26,32.9,13,16.5,79
+Other agile management tasks,Identify possible mitigation strategies for risk items,12,27,39,49.4,7,18,25,31.6,15,19.0,79
+Scrum artifacts,Improve the Definition of Done criteria,17,22,39,49.4,12,16,28,35.4,12,15.2,79
+Other agile management tasks,Improve the product vision,14,25,39,49.4,8,16,24,30.4,16,20.3,79
+Other agile management tasks,Summarize the product roadmap for stakeholders,14,25,39,49.4,10,17,27,34.2,13,16.5,79
+Scrum artifacts,"Write candidate Product Backlog items (e.g., from requirements document or product vision)",17,22,39,49.4,9,21,30,38.0,10,12.7,79
+Other agile management tasks,Improve the team working agreements,11,27,38,48.1,7,17,24,30.4,17,21.5,79
+Exploring and learning Scrum practices,"Simulate conversations to create learning or practice scenarios for others – e.g., generating realistic role-play cases or Q&A dialogues to use in training sessions or workshops you lead.",11,25,36,45.6,3,24,27,34.2,16,20.3,79
+Other agile management tasks,Summarize Sprint or release progress,12,24,36,45.6,8,19,27,34.2,16,20.3,79
+Scrum events,"Capture/Identify action items and owners of Events (e.g., Sprint Review, Sprint Planning, Sprint Retrospective)",15,20,35,44.3,12,20,32,40.5,12,15.2,79
+Scrum artifacts,"Define the technical tasks for a Product Backlog item (i.e., decompose the Product Backlog item into smaller work items)",17,17,34,43.0,15,18,33,41.8,12,15.2,79
+Other agile management tasks,Identify project/product risks,12,22,34,43.0,7,23,30,38.0,15,19.0,79
+Other agile management tasks,Define possible impediment mitigation options,11,22,33,41.8,4,24,28,35.4,18,22.8,79
+Other agile management tasks,Improve the product roadmap,11,22,33,41.8,13,21,34,43.0,12,15.2,79

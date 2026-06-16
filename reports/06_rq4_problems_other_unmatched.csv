@@ -1,0 +1,2 @@
+other_or_unmatched_response,count
+"""Preguiça da IA"": Dependendo do tamanho do prompt a IA responde parcialmente. Ex: Organize a lista com 100 pessoas em pdf e gere o sql para cada linha... Costuma gerar somente uma parte e dizer que segue o estilo, mesmo forçando a IA não quer e tenho que fazer por partes.",1

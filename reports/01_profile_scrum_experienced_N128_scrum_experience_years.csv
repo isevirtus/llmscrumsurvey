@@ -1,0 +1,6 @@
+scope,variable,response,count,percent,denominator
+scrum_experienced_N128,scrum_experience_years,Less than 3 years,48,37.5,128
+scrum_experienced_N128,scrum_experience_years,Between 3 and 5 years,41,32.0,128
+scrum_experienced_N128,scrum_experience_years,Between 6 and 10 years,26,20.3,128
+scrum_experienced_N128,scrum_experience_years,Between 11 and 15 years,12,9.4,128
+scrum_experienced_N128,scrum_experience_years,Between 16 and 20 years,1,0.8,128

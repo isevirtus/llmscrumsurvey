@@ -1,0 +1,23 @@
+scope,variable,response,count,percent,denominator
+final_analytic_N79,problem_domain,Finance,18,22.8,79
+final_analytic_N79,problem_domain,Education,13,16.5,79
+final_analytic_N79,problem_domain,Enterprise Resource Planning,10,12.7,79
+final_analytic_N79,problem_domain,Transport and Distribution,7,8.9,79
+final_analytic_N79,problem_domain,Telecommunication,7,8.9,79
+final_analytic_N79,problem_domain,Retail,3,3.8,79
+final_analytic_N79,problem_domain,Security and Defense,3,3.8,79
+final_analytic_N79,problem_domain,Pharmaceutics,3,3.8,79
+final_analytic_N79,problem_domain,Healthcare,2,2.5,79
+final_analytic_N79,problem_domain,Accessibility,1,1.3,79
+final_analytic_N79,problem_domain,Energy,1,1.3,79
+final_analytic_N79,problem_domain,Green Energy,1,1.3,79
+final_analytic_N79,problem_domain,Public Administration,1,1.3,79
+final_analytic_N79,problem_domain,"Emergency Response, Logistics, and Operations — Mainly in Ocean and Offshore Environments",1,1.3,79
+final_analytic_N79,problem_domain,Sports,1,1.3,79
+final_analytic_N79,problem_domain,serviço publico,1,1.3,79
+final_analytic_N79,problem_domain,Utilities,1,1.3,79
+final_analytic_N79,problem_domain,retail and distribution,1,1.3,79
+final_analytic_N79,problem_domain,Public Administration (government and laws),1,1.3,79
+final_analytic_N79,problem_domain,Connect platform for data and cross accounts collaboration,1,1.3,79
+final_analytic_N79,problem_domain,Clubs and Recreations,1,1.3,79
+final_analytic_N79,problem_domain,silicon test engineering,1,1.3,79
