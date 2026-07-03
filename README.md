@@ -172,63 +172,84 @@ See [DATA_README.md](DATA_README.md) for a complete file-by-file description.
 
 ### RQ1 — Knowledge and Usage of LLMs
 
-LLM use in Scrum is already routine rather than exploratory:
+LLM use in Scrum is already routine rather than purely exploratory:
 
-- **48%** of respondents use LLM chat assistants **daily or almost daily**
-- **78%** self-assess as having intermediate or advanced proficiency
-- **ChatGPT** dominates adoption (85.7%), followed by **Gemini** (60%) and
-  **Copilot** (57%)
-- Adoption is largely **bottom-up**: formal organizational governance covers only
-  roughly half of respondents; 55.6% use LLMs informally
+- **48.1%** of respondents use LLM chat assistants **daily or almost daily**
+- **79.7%** self-assess as having qualified, proficient, or specialist-level LLM knowledge
+- **ChatGPT** dominates adoption (86.1%), followed by **Gemini** (60.8%) and
+  **Copilot Chat** (59.5%)
+- Adoption is largely **bottom-up**: 57.0% reported informal use, while 43.0%
+  reported formally established use
+- Formal AI organizational policies were reported by 43.0% of respondents, while
+  24.1% reported no organizational policy
 
 ### RQ2 — LLM Adoption Across Scrum Practices
 
-Current use concentrates on **text-intensive and analytical tasks**:
+Current use concentrates on **text-intensive, analytical, and synthesis-oriented tasks**:
 
-- Highest adoption: Writing Product Backlog Items (PBIs), Non-functional
-  Requirements, and Acceptance Criteria; event summarization; issue summaries
-- Lowest adoption (resistance): strategic activities such as defining Product/Sprint
-  Goals, estimating effort, and defining the Definition of Done
+- Highest current-use activities included improving Product Backlog item descriptions
+  (62.0%), summarizing Scrum events (59.5%), exploring Scrum practices and
+  techniques (58.2%), getting practical resources and examples (57.0%), clarifying
+  Scrum concepts and roles (55.7%), defining non-functional requirements (55.7%),
+  and summarizing Sprint Review feedback (55.7%)
+- At the category level, exploring and learning Scrum practices showed the highest
+  overall current adoption (81.0%), followed by artifact-related tasks (75.9%),
+  event-related tasks (72.2%), and additional management activities (68.4%)
+- Lower adoption or greater resistance appeared in some strategic or highly
+  context-dependent activities, such as defining Product/Sprint Goals, effort
+  estimation, Definition of Done, team agreements, and coaching or mentoring
+  simulations
 
 ### RQ3 — Perceived Benefits
 
-Top benefits reported by the final analytic sample (N=79):
+Top benefits reported by the final analytic sample (N = 79):
 
 | Benefit                                      | Count | %     |
 | -------------------------------------------- | ----- | ----- |
 | Increased productivity                       | 61    | 77.2% |
-| Reduced time for repetitive tasks            | 60    | 76.5% |
-| Improved quality of artifacts                | —     | ~74%  |
-| Better communication with stakeholders       | 44    | 55.9% |
-| Improved knowledge sharing and documentation | 36    | 45.6% |
+| Reduced time for repetitive tasks            | 60    | 75.9% |
+| Improved quality of artifacts                | 59    | 74.7% |
+| Support in decision-making                   | 46    | 58.2% |
+| Better communication with stakeholders       | 41    | 51.9% |
+| Improved knowledge sharing and documentation | 39    | 49.4% |
 
-Developers report the highest perceived benefit; Product Owners show the greatest
-variability.
+Developers most frequently associated LLM use with reduced repetitive work and
+improved artifact quality. Scrum Masters reported benefits related to productivity,
+reduced repetitive work, artifact quality, and decision support. Product Owners
+emphasized reduced repetitive work, productivity, communication with stakeholders,
+and creativity in problem-solving.
 
 ### RQ4 — Risks and Challenges
 
-Top problems encountered (N=79):
+Top problems encountered (N = 79):
 
 | Problem                                       | Count | %     |
 | --------------------------------------------- | ----- | ----- |
-| Solutions almost right, but not quite         | 53    | 67.6% |
-| Hallucinations (fabricated/incorrect answers) | 41    | 51.5% |
-| Privacy/confidentiality concerns              | 37    | 47.1% |
-| Difficulty validating AI-generated content    | 35    | 44.1% |
-| High variability in output quality            | 34    | 42.6% |
+| Solutions almost right, but not quite         | 52    | 65.8% |
+| Hallucinations                                | 43    | 54.4% |
+| Privacy/confidentiality concerns              | 40    | 50.6% |
+| Difficulty validating AI-generated content    | 37    | 46.8% |
+| High variability in output quality            | 33    | 41.8% |
 
-Qualitative themes: misleading outputs in management reports, over-reliance and
-declining critical engagement, and social signals of uncritical AI use.
+Qualitative themes included misleading or inaccurate outputs, privacy and security
+concerns, validation effort, over-reliance, reduced critical engagement, and
+inappropriate use of generated content.
 
 ### RQ5 — Future Perspectives
 
-- **Majority** favour **human-led** or balanced human-AI collaboration models;
-  full role replacement by AI is widely rejected
-- **New skills** most anticipated: prompt engineering, critical AI evaluation,
-  multidisciplinary reasoning, and oversight of AI-generated artefacts
-- Formalization of LLM governance and context-aware tooling are seen as
-  key enablers for responsible adoption
-
+- **Human-led** work with AI as assistants was the most frequently selected future
+  collaboration model (49.4%), followed by **balanced human-AI collaboration**
+  (31.6%); together, these two categories accounted for 81.0% of respondents
+- Full role replacement by AI was widely rejected: 65.8% selected no role
+  replacement in the multiple-selection item about whether AI could fully or
+  partially replace Scrum roles
+- Among role-replacement options, Product Owner (21.5%), Scrum Master (21.5%),
+  and Developers (20.3%) were selected at similar levels
+- **New skills** most anticipated included prompt engineering, critical AI
+  evaluation, multidisciplinary reasoning, process understanding, AI tool literacy,
+  data/LLM understanding, and oversight of AI-generated artifacts
+- Formalization of LLM governance and context-aware tooling are seen as key
+  enablers for responsible adoption
 ---
 
 ## Contributing
