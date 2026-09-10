@@ -3,8 +3,7 @@
 ## Overview
 
 This repository contains the supplementary material for the research paper
-**"Large Language Models in Scrum Management: Findings from an International
-Survey of Practitioners"** submitted to the **Journal of Systems and Software**.
+**"Large Language Models in Scrum Management: Insights from a Practitioner Survey"** submitted to the **Journal of Systems and Software**.
 
 The study investigates how Agile practitioners currently use Large Language Models
 (AI chat assistants such as ChatGPT, Claude, and Gemini) to support **Scrum
