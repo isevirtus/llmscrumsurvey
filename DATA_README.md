@@ -93,11 +93,6 @@ Scrum, Scrum artifacts, Scrum events, and other Agile management tasks. It also
 contains the task-oriented coding scheme, segment classifications, and checker
 decisions.
 
-The source-row alignment and derived usable-response totals in this workbook are
-under author verification. Until that verification is complete, use the raw
-non-empty response counts generated directly from `merged_survey_data.xlsx` and
-do not treat workbook-level usable totals as finalized.
-
 ### `rq3_positive_examples_coding_checker (1).xlsx`
 
 Coding and checker workbook for the positive-example item associated with **RQ3**
