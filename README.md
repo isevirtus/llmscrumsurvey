@@ -1,16 +1,16 @@
-# Supplementary Material: "Large Language Models in Scrum Management: Findings from an International Survey of Practitioners"
+# Supplementary Material: "Large Language Models in Scrum Management: Insights from a Practitioner Survey"
 
 ## Overview
 
 This repository contains the supplementary material for the research paper
 **"Large Language Models in Scrum Management: Insights from a Practitioner Survey"** submitted to the **Journal of Systems and Software**.
 
-The study investigates how Agile practitioners currently use Large Language Models
+The study investigates how Agile practitioners report using Large Language Models
 (AI chat assistants such as ChatGPT, Claude, and Gemini) to support **Scrum
-management activities** — spanning Scrum artifacts, events, and roles. Through an
-international online survey of 159 practitioners from **37 countries**, the research
-characterises usage patterns, perceived benefits, risks, and expectations for the
-future role of LLMs in Scrum practice.
+management activities** — spanning Scrum artifacts, events, and roles. The survey
+received 159 submissions from 37 countries. After applying the documented
+filtering and consistency criteria, the main analyses use a final analytic sample
+of **79 respondents**.
 
 ---
 
@@ -74,7 +74,10 @@ llmscrumsurvey/
 │   ├── merged_survey_data-processing.xlsx   # Intermediate processing workbook
 │   └── codebooks/
 │       ├── rq2_final_qualitative_codebook.xlsx              # RQ2 qualitative codebook
-│       └── rq3_positive_examples_coding_checker (1).xlsx    # RQ3 coding checker
+│       ├── rq3_positive_examples_coding_checker (1).xlsx    # RQ3 positive-example codebook
+│       ├── rq4_codebook.xlsx                                 # RQ4 risks/negative-examples codebook
+│       ├── rq5_codebook.xlsx                                 # RQ5 new-skills codebook
+│       └── general_comments_supplementary_codebook.xlsx      # General-comments codebook
 ├── scripts/
 │   ├── generate_descriptive_statistics.py   # Descriptive statistics + figures (main script)
 │   └── compute_table2_participant_profile.py # Table 2 — participant profile with certifications
@@ -85,6 +88,30 @@ llmscrumsurvey/
     ├── figure_index.csv                     # Index of generated figures
     └── *.csv                                # Per-section frequency tables (pre-generated)
 ```
+
+---
+
+## Qualitative Codebooks
+
+The five workbooks in `data/codebooks/` preserve the qualitative audit trail for
+the open-ended survey items:
+
+- `rq2_final_qualitative_codebook.xlsx` — RQ2 additional activities and example
+  prompts across learning, artifacts, events, and other Agile management tasks.
+- `rq3_positive_examples_coding_checker (1).xlsx` — RQ3 positive examples and
+  benefit-oriented coding.
+- `rq4_codebook.xlsx` — RQ4 biggest-risk responses and negative examples.
+- `rq5_codebook.xlsx` — RQ5 responses concerning skills needed for future
+  human–AI collaboration.
+- `general_comments_supplementary_codebook.xlsx` — optional general comments,
+  retained separately because they are not tied to a specific RQ construct.
+
+Coding is performed at the segment level, so one raw response may contribute
+more than one coded segment. Segment counts are descriptive indicators of coded
+content and must not be interpreted as prevalence estimates for the final analytic
+sample. These workbooks are audit artifacts and are not inputs to the descriptive
+analysis scripts. See [DATA_README.md](DATA_README.md) for file-level scope and
+verification notes.
 
 ---
 
@@ -171,7 +198,8 @@ See [DATA_README.md](DATA_README.md) for a complete file-by-file description.
 
 ### RQ1 — Knowledge and Usage of LLMs
 
-LLM use in Scrum is already routine rather than purely exploratory:
+Respondents in the final analytic sample reported substantial use of LLM chat
+assistants for Scrum management activities:
 
 - **48.1%** of respondents use LLM chat assistants **daily or almost daily**
 - **79.7%** self-assess as having qualified, proficient, or specialist-level LLM knowledge
@@ -247,8 +275,8 @@ inappropriate use of generated content.
 - **New skills** most anticipated included prompt engineering, critical AI
   evaluation, multidisciplinary reasoning, process understanding, AI tool literacy,
   data/LLM understanding, and oversight of AI-generated artifacts
-- Formalization of LLM governance and context-aware tooling are seen as key
-  enablers for responsible adoption
+- The responses point to formalized LLM governance and context-aware tooling as
+  potential enablers of responsible adoption
 ---
 
 ## Contributing
@@ -267,7 +295,7 @@ If you use this data or code in your work, please cite:
 
 ```bibtex
 @article{albuquerque2026llmscrum,
-  title   = {Large Language Models in Scrum Management: Findings from an International Survey of Practitioners},
+  title   = {Large Language Models in Scrum Management: Insights from a Practitioner Survey},
   author  = {Danyllo Albuquerque and Mirko Perkusich and Matheus Paixão and
              Allysson Allex Araújo and Marcos Kalinowski and Rohit Gheyi and
              Danilo Santos and Angelo Perkusich},
